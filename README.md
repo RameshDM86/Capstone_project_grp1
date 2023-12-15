@@ -1,5 +1,4 @@
 # Capstone_project_grp1 # 
-# captone_ramesh_version
 -
 Our Team 1 webpage for a new start-up using HTML5 Dimensions template : https://html5up.net/dimension with CICD pipelines so that future changes can be incorporated efficiently.
 
